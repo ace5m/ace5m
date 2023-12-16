@@ -1,0 +1,2 @@
+- This is a a free PC-Opti tool created by me (Mainly for FiveM)
+- https://discord.gg/ace5m for support
